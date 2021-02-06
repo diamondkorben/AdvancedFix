@@ -91,5 +91,6 @@ class FixCommand extends PluginCommand {
         }elseif ($this->plugin->getConfig()->get("xp.repair") == true){
             //$calculate = $this->plugin->getConfig()->get("xp.cost");
         }
+        return true;
     }
 }
