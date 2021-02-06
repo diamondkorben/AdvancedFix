@@ -1,0 +1,12 @@
+---
+# This will be what the plugin would use as a payment set them simply to "true" or "false" or leave them both to
+# false to enable free /fix
+economy.repair: false
+
+xp.repair: false
+
+# Costs:
+# This will set the cost Per item to fix
+economy.cost: 1000
+# This is for xp level
+xp.cost: 1
