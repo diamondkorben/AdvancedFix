@@ -5,3 +5,9 @@ api: 3.0.0
 author: urhuckleberry
 
 permissions:
+  af.command.use:
+    default: op
+  af.command.hand:
+    default: op
+  af.command.all:
+    default: op
