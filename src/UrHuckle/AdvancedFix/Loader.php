@@ -1,5 +1,7 @@
 <?php
 
+namespace UrHuckle\AdvancedFix;
+
 use UrHuckle\AdvancedFix\commands\FixCommand;
 use pocketmine\plugin\PluginBase;
 use pocketmine\item\Armor;
