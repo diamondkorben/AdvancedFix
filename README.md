@@ -1,2 +1,4 @@
-# AdvancedFix
-A advanced /fix command for PocketmineMP
+# Status
+Plugin is not released
+# Features
+# ToDo
