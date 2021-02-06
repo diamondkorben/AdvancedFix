@@ -1,4 +1,4 @@
 # Status
-Plugin is not released
+🔴Plugin is not released🔴
 # Features
 # ToDo
