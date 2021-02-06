@@ -1,8 +1,9 @@
 # Status
-🔴Plugin is not released🔴
+🟡Plugin May be operable🟡
 # Features
 - /fix Command
 - EconomyAPI Feature
-- XP Feature
+- Fully Customizable
 # ToDo
-- Everything
+- XP Feature
+- Code Cleanup/Enhancement
