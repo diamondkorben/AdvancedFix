@@ -1,5 +1,7 @@
 <?php
 
+namespace UrHuckle\AdvancedFix\commands
+
 use UrHuckle\AdvancedFix\Loader;
 use pocketmine\command\PluginCommand;
 use pocketmine\command\CommandSender;
